@@ -5,7 +5,7 @@ The program is written by Natalie Mulodjanov*/
 import java.lang.*;// importing java packages
 import java.util.*;
 
-public class AverageTemp{
+public class AverageTempQ4{
   public static void main(String[] args) {
 
   System.out.println("\n\n\n*****Averag Temparture******\n\n\n");
