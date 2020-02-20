@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class MyAgeIs {
+public class MyAgeIsQ1 {
 
   public static void main(String[] args) {
   int currentYear;
