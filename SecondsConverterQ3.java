@@ -7,7 +7,7 @@ import java.util.*;// importing java packages
 import java.lang.*;
 
 
-public class SecondsConverter{
+public class SecondsConverterQ3{
   public static void main(String[] args) {
 
     int seconds;
