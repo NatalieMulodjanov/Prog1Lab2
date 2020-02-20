@@ -1,7 +1,7 @@
 //importing java utility package 
 import java.util.*;
 
-public class AreaOfaCircle {
+public class AreaOfaCircleQ1 {
   public static void main(String[] args) {
 
   	//instantiating objects and declaring variables 
