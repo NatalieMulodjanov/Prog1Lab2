@@ -5,7 +5,7 @@ the program is written by Natalie Mulodjanov  */
 import java.util.*;// I am always importing using the * to be safe
 import java.lang.*;
 
-public class BMICalculator{
+public class BMICalculatorQ2{
   public static void main(String[] args) {
 
     System.out.println("\n\n\n******BMICalcuator******\n\n\n");
