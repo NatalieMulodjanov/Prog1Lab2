@@ -1,5 +1,5 @@
 import java.util.*;
-public class RectanglePerimeter {
+public class RectanglePerimeterQ1 {
   public static void main (String[] args){
 
     double length;
